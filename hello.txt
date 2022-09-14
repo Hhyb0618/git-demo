@@ -1,5 +1,6 @@
-hello atiguigu！hello,git! 22222222222222
-hello atiguigu！hello,git! 33333333333333
+<<<<<<< HEAD
+hello atiguigu！hello,git! 22222
+hello atiguigu！hello,git! 33333
 hello atiguigu！hello,git!
 hello atiguigu！hello,git!
 hello atiguigu！hello,git!
@@ -19,9 +20,9 @@ hello atiguigu！hello,git!
 hello atiguigu！hello,git!
 hello atiguigu！hello,git!
 hello atiguigu！hello,git!
+hello atiguigu！hello,git! master test
 hello atiguigu！hello,git!
 hello atiguigu！hello,git!
 hello atiguigu！hello,git!
-hello atiguigu！hello,git!
-hello atiguigu！hello,git!
+hello atiguigu！hello,git! hot-fix test
 hello atiguigu！hello,git!
